@@ -12,15 +12,8 @@ If you want to discuss anything Jupyter related, or to meet other users and deve
 Please summarise this PR.
 Please also edit the PR title so that it contains enough context to go into a changelog.
 Use "Fixes #<NUM>" if this fixes an existing issue.
+It may help to list each change with an explanation of why it's needed- remember that what seems obvious to you may not be obvious to a reviewer.
 -->
-
-### List of changes
-<!--
-Outline the main changes proposed in this PR (pull-request).
-You can use bullet points "-" if it helps.
--->
-- Change X
-- Add Y
 
 ### Is this PR related to another issue, or is it part of a larger body of work?
 <!--
