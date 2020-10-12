@@ -9,15 +9,21 @@ If you want to discuss anything Jupyter related, or to meet other users and deve
 
 ### What does this PR do?
 <!--
-Please summarise this PR.
+Please indicate the type of change made by this PR (tick one or more of the boxes) and summarise the PR.
 Please also edit the PR title so that it contains enough context to go into a changelog.
-Use "Fixes #<NUM>" if this fixes an existing issue.
 It may help to list each change with an explanation of why it's needed- remember that what seems obvious to you may not be obvious to a reviewer.
 -->
+Type of change:
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation
+- [ ] Other
 
 ### Is this PR related to an issue, or is it part of a larger body of work?
 <!--
 Please feel free to provide as much context or links to external sites as you want!
+Use "Fixes #<NUM>" or "Fixes <URL to GitHub issue>" if this fixes an existing issue.
 -->
 
 ### Does this PR introduce a breaking change?
