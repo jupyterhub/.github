@@ -15,7 +15,7 @@ Use "Fixes #<NUM>" if this fixes an existing issue.
 It may help to list each change with an explanation of why it's needed- remember that what seems obvious to you may not be obvious to a reviewer.
 -->
 
-### Is this PR related to another issue, or is it part of a larger body of work?
+### Is this PR related to an issue, or is it part of a larger body of work?
 <!--
 Please feel free to provide as much context or links to external sites as you want!
 -->
@@ -27,7 +27,7 @@ If so what changes might users need to make in their applications due to this PR
 
 ### How can this PR be tested?
 <!--
-If this is not fully covered by the automated tests please help us by showing us the steps needed to verify the changes work.
+If this is not fully covered by the automated tests please help us by describing the tests that you ran to verify your changes. Make sure to provide as much detail so that we can reproduce your tests.
 -->
 
 ### What should a reviewer concentrate their feedback on?
