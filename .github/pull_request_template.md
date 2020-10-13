@@ -1,3 +1,4 @@
+<!--
 Thank you for contributing to this repository!
 
 You can help us review your changes by answering these questions.
@@ -5,6 +6,7 @@ They are all optional, but the more information you provide the easier it will b
 Everyone here is a volunteer, so please help us out if you can.
 
 If you want to discuss anything Jupyter related, or to meet other users and developers, please say hello on https://discourse.jupyter.org/ .
+-->
 
 
 ### What does this PR do?
