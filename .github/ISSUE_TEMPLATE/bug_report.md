@@ -7,15 +7,19 @@ labels: bug
 <!-- Thank you for contributing. These HTML comments will not render in the issue, but you can delete them once you've read them if you prefer! -->
 
 ### Bug description
+
 <!-- Use this section to clearly and concisely describe the bug. -->
 
 #### Expected behaviour
+
 <!-- Tell us what you thought would happen. -->
 
 #### Actual behaviour
+
 <!-- Tell us what actually happens. -->
 
 ### How to reproduce
+
 <!-- Use this section to describe the steps that a user would take to experience this bug. -->
 
 1. Go to '...'
@@ -24,6 +28,7 @@ labels: bug
 4. See error
 
 ### Your personal set up
+
 <!--
 Tell us a little about the system you're using.
 Please include information about how you installed,
@@ -35,7 +40,7 @@ e.g. are you using a distribution such as zero-to-jupyterhub or the-littlest-jup
  - Version(s):
  <!-- e.g. jupyterhub --version, python --version --->
 
-- <details><summary>Full environment</summary>
+<details><summary>Full environment</summary>
 <!-- For reproduction, it's useful to have the full environment. For example, the output of `pip freeze` or `conda list` --->
 
 ```
@@ -43,7 +48,7 @@ e.g. are you using a distribution such as zero-to-jupyterhub or the-littlest-jup
 ```
 </details>
 
-- <details><summary>Configuration</summary>
+<details><summary>Configuration</summary>
 <!--
 For JupyterHub, especially include information such as what Spawner and Authenticator are being used.
 Be careful not to share any sensitive information.
@@ -57,7 +62,7 @@ To exclude lots of comments and empty lines from auto-generated jupyterhub_confi
 ```
 </details>
 
-- <details><summary>Logs</summary>
+<details><summary>Logs</summary>
 <!--
 Errors are often logged by jupytehub. How you get logs depends on your deployment.
 With kubernetes it might be:
