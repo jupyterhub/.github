@@ -10,14 +10,6 @@ labels: bug
 
 <!-- Use this section to clearly and concisely describe the bug. -->
 
-#### Expected behaviour
-
-<!-- Tell us what you thought would happen. -->
-
-#### Actual behaviour
-
-<!-- Tell us what actually happens. -->
-
 ### How to reproduce
 
 <!-- Use this section to describe the steps that a user would take to experience this bug. -->
@@ -26,6 +18,14 @@ labels: bug
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+
+#### Expected behaviour
+
+<!-- Tell us what you thought would happen. -->
+
+#### Actual behaviour
+
+<!-- Tell us what actually happens. -->
 
 ### Your personal set up
 
