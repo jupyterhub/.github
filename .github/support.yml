@@ -10,10 +10,10 @@ supportComment: |
 
   I closed this issue because it was labelled as a support question.
 
-  Please help us organize discussion by posting this on the http://discourse.jupyter.org/ forum.
+  Please help us organize discussion by posting this on the http://discourse.jupyter.org/ forum.  Support questions often related to multiple Jupyter components or a different component than expected, and thus usually don't receive good answers when posted to a single repository.
 
   Our goal is to sustain a positive experience for both users and developers. We use GitHub issues for specific discussions related to changing a repository's content, and let the forum be where we can more generally help and inspire each other.
-  
+
   Thanks you for being an active member of our community! :heart:
 
 # Close issues marked as support requests
