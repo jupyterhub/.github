@@ -8,6 +8,21 @@ Everyone here is a volunteer, so please help us out if you can.
 If you want to discuss anything Jupyter related, or to meet other users and developers, please say hello on https://discourse.jupyter.org/ .
 -->
 
+### Checklist
+
+<!--
+Checklist of things you should always do before contributing
+
+Make sure to read our policy if you have used an LLM in preparing this contribution.
+
+https://compass.hub.jupyter.org/contribute/llm/
+
+Automated contributions are not permitted.
+
+By 'this work', we mean any code, documentation, as well as the PR description and any comments you post in the discussion.
+-->
+
+- [ ] I am the author of this work
 
 ### What does this PR do?
 <!--
